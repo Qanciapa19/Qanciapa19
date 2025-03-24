@@ -1,4 +1,4 @@
-- Hi, I’m @Qanciapa19
+- Hi, I’m @Qanciapa19                                                                                                                                                       
 -🎓  I'm currently a student at WSB Merito Chorzów
 - 👀 I’m interested in AI, machine learning and many things tech
 - 🌱 I’m currently learning C#, SQL and Python
